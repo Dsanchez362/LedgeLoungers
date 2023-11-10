@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Finance Dashboard</title>
+</head>
+<body>
+    <div>
+        <iframe title="Finance $ Report" width="1024" height="1060" src="https://app.powerbi.com/view?r=eyJrIjoiYWVkZTgzYWEtMzY1Ny00ZDExLTg5YTctYjJjNjI4ODIwYTdiIiwidCI6IjYxN2M2NGVkLTdjYzQtNDNiMS05Y2U2LTY4YzQ5NTgzMDNhNCJ9" frameborder="0" allowFullScreen="true"></iframe>
+    </div>
+</body>
+</html>
