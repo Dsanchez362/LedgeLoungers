@@ -28,7 +28,7 @@ jobs:
           action: "upload"
           ###### Repository/Build Configurations - These values can be configured to match your app requirements. ######
           # For more information regarding Static Web App workflow configurations, please visit: https://aka.ms/swaworkflowconfig
-          app_location: "https://github.com/Dsanchez362/LedgeLoungers/blob/1c2181fc5b399c8332074ee8d8c11dce296552d2/PowerBI%20Dashboards.HTML" # App source code path
+          app_location: "PowerBI Dashboards.HTML/PowerBI Dashboards.HTML" # App source code path
           api_location: "" # Api source code path - optional
           output_location: "/" # Built app content directory - optional
           ###### End of Repository/Build Configurations ######
