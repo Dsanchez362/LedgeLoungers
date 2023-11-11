@@ -66,4 +66,4 @@ jobs:
         with:
           app-name: 'LEDGETEST'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_4F3E2E97F673482B8A7549D26D8DC9F5 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_D064E27E86194D299FDEA6DB68240322 }}
